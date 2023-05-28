@@ -25,7 +25,8 @@ print(result,unans)
 ```
 
 # OUTPUT :
-![Screenshot (96)](https://github.com/ArpanBardhan/EX-7/assets/119405037/90a9692f-5d5d-4565-adf2-145cbdd44047)
+
+![Screenshot (96)](https://github.com/ArpanBardhan/EX-7/assets/119405037/39f470d2-6847-48a8-83a8-b0da589de513)
 
 
 # RESULT :
